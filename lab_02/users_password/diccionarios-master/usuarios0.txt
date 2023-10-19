@@ -1,31 +1,3 @@
-root
-admin
-1234
-user
-Administrator
-administrador
-usuario2
-usuario
-user4
-user3
-user2
-user1
-12345
-123456
-daemon
-bin
-sys
-sync
-games
-man
-lp
-mail
-news
-uucp
-proxy
-www-data
-backup
-nobody
-anonymous
-Anonymous
-guest
+version https://git-lfs.github.com/spec/v1
+oid sha256:99cbdcd97279fc90ca9c5cf529502567325a77a511233e1349a98a7e09b08195
+size 206
